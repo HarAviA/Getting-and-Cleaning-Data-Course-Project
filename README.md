@@ -12,6 +12,6 @@
 
 - `CodeBook.md` describes the variables, the data, and any work that is done to clean up the data.
 
-- Run_analysis.R' contains all the coding to perform the course project, which includes downloading and decompressing the data set used for this project.
+- `run_analysis.R` contains all the coding to perform the course project, which includes downloading and decompressing the data set used for this project.
 
 - `tidydataset.txt` is a text file written from` run_analysis.R`, which are the average characteristics of each topic and each activity. See `CodeBook.md` for more explicit information.
